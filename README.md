@@ -93,22 +93,22 @@ Executive Insights
 ## Dashboard Preview
 
 ### Executive Overview
-[View PDF](docs/executive-overview.pdf)
+[View Executive Overview PDF](docs/executive-overview.pdf)
 
 ---
 
 ### Operational Diagnostics
-[View PDF](docs/operational-diagnostics.pdf)
+[View Operational Diagnostics PDF](docs/operational-diagnostics.pdf)
 
 ---
 
 ### Customer & Channel Analytics
-[View PDF](docs/customer-channel-analytics.pdf)
+[View Customer & Channel Analytics PDF](docs/customer-channel-analytics.pdf)
 
 ---
 
 ### AI Analytics Assistant
-[View PDF](docs/ai-assistant.pdf)
+[View AI Analytics Assistant PDF](docs/ai-assistant.pdf)
 
 ## Future Improvements
 
