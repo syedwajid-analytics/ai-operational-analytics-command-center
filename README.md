@@ -1,31 +1,33 @@
 # AI Operational Analytics Command Center
 
-Enterprise-style AI analytics dashboard prototype built with Streamlit, Plotly, and OpenAI.
+Enterprise-style AI analytics dashboard prototype designed to demonstrate:
 
-## Overview
-
-This project demonstrates an AI-powered operational analytics platform designed for:
-
-- executive monitoring
+- executive KPI monitoring
 - operational diagnostics
-- customer analytics
-- forecasting
-- conversational AI insights
+- conversational AI analytics
+- governance-aware reporting
+- future-ready analytics architecture
 
-The dashboard uses anonymized demo data and focuses on modern enterprise analytics concepts.
+The project combines dashboard thinking, AI-assisted analytics concepts, operational reporting, and scalable enterprise architecture direction.
 
 ---
 
-## Features
+## Executive Showcase
+
+[Download Executive Showcase Presentation](docs/AI_Operational_Analytics_Showcase_Executive_Final.pptx)
+
+---
+
+## Solution Highlights
 
 - Executive KPI dashboard
-- Operational monitoring
-- Risk diagnostics
-- Forecast preview
+- Operational monitoring & diagnostics
 - Customer & channel analytics
-- AI assistant for dashboard questions
+- Conversational AI analytics assistant
+- Governance-aware AI direction
 - Multi-page analytics experience
-- Enterprise-style UI design
+- Enterprise-style UI/UX design
+- Future-ready analytics architecture thinking
 
 ---
 
@@ -37,6 +39,9 @@ The dashboard uses anonymized demo data and focuses on modern enterprise analyti
 - NumPy
 - Plotly
 - OpenAI API
+- Power BI concepts
+- Microsoft Fabric direction
+- Lakehouse & semantic model concepts
 
 ---
 
@@ -48,7 +53,7 @@ Install dependencies:
 pip install -r requirements.txt
 ```
 
-Run the app:
+Run the application:
 
 ```bash
 streamlit run app.py
@@ -69,53 +74,46 @@ Oracle Cloud / Enterprise Data
         ↓
 Microsoft Fabric OneLake / Lakehouse
         ↓
-Bronze, Silver, Gold Medallion Layers
+Bronze • Silver • Gold Medallion Layers
         ↓
 Power BI Semantic Model
         ↓
-Dashboard + AI Assistant
+Dashboard + Conversational AI Assistant
         ↓
-Executive Insights
+Executive Insights & Operational Decision Support
 ```
 
 ---
 
 ## Governance & Security Thinking
 
-- Use governed and approved data sources
-- Keep sensitive data within approved enterprise boundaries
-- Apply role-based access for relevant users
-- Avoid exposing raw data unnecessarily
-- Support trusted KPI definitions through semantic models
+- Governed and approved data sources
+- Semantic KPI definitions
+- Role-based access concepts
+- AI aligned with trusted analytics assets
+- Controlled and scalable enterprise analytics direction
+- Avoid unnecessary exposure of raw operational data
 
 ---
 
-## Dashboard Preview
+## Focus Areas
 
-### Executive Overview
-[View Executive Overview PDF](docs/executive-overview.pdf)
-
----
-
-### Operational Diagnostics
-[View Operational Diagnostics PDF](docs/operational-diagnostics.pdf)
-
----
-
-### Customer & Channel Analytics
-[View Customer & Channel Analytics PDF](docs/customer-channel-analytics.pdf)
+- AI-assisted analytics
+- Executive reporting
+- KPI governance
+- Operational diagnostics
+- Conversational analytics
+- Scalable analytics architecture
+- Future-ready BI direction
 
 ---
 
-### AI Analytics Assistant
-[View AI Analytics Assistant PDF](docs/ai-assistant.pdf)
+## Future Direction
 
-## Future Improvements
-
-- Connect to live enterprise data sources
-- Add Microsoft Fabric / Lakehouse integration
-- Add role-based security
-- Improve multilingual AI questions
-- Add forecasting models
-- Add Power BI semantic model integration
-- Deploy as an internal analytics assistant
+- Microsoft Fabric integration
+- Lakehouse architecture evolution
+- Semantic model expansion
+- Multilingual AI assistant support
+- Forecasting & scenario analysis
+- Enterprise AI governance layer
+- Live enterprise operational data integration
