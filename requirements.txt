@@ -1,0 +1,12 @@
+<<<<<<< HEAD
+streamlit
+pandas
+numpy
+plotly
+=======
+streamlit
+pandas
+numpy
+plotly
+>>>>>>> 225fa0ed91a95cbc8bcb6f852824179928c1894c
+openai
